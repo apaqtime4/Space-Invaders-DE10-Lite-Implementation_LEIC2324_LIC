@@ -106,7 +106,7 @@ Space Invaders
 │   ├── moduloLCDontroller_LEIC21D-G9                      
 │   ├── moduloSDController_LEIC21D-G9                  
 │   ├── moduloKeyboardReader_LEIC21D-G9                 
-│   └── projectDocumentation_LEIC21D-G9                 
+└────── projectDocumentation_LEIC21D-G9                 
 
 ## Como Executar
 
