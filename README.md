@@ -112,7 +112,7 @@ Space Invaders
 
 1. **Configurar a Placa DE10-Lite**:
     - Conectar a placa ao computador.
-    - Configurar o ficheiro `Pinos.qsf` localizado em `LIC_Grupo-9/Hardware/Pinos.qsf`
+    - Configurar o ficheiro `Pinos.qsf` localizado em `Space-Invaders-DE10-Lite-Implementation_LEIC2324_LIC/Hardware/Pinos.qsf`
 
 2. **Compilar o Projeto**:
     - Utilizar o Quartus Prime para compilar o projeto.
@@ -121,7 +121,7 @@ Space Invaders
     - Após a compilação, carregar o programa na FPGA da DE10-Lite.
 
 4. **Executar o Jogo**:
-    - Iniciar a função main do ficheiro `Game_Mode.kt` localizado em `LIC_Grupo-9/Software/USBport/src/Game_Mode.kt`
+    - Iniciar a função main do ficheiro `Game_Mode.kt` localizado em `Space-Invaders-DE10-Lite-Implementation_LEIC2324_LIC/Software/USBport/src/Game_Mode.kt`
     - Reiniciar a placa para iniciar o jogo.
 
 ## Conclusões
