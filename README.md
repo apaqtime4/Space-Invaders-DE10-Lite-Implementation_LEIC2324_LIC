@@ -1,4 +1,4 @@
-# Space Invaders - DE10-Lite Implementation
+# Space Invaders - DE10-Lite Implementation 
 
 ## Descrição do Projeto
 
